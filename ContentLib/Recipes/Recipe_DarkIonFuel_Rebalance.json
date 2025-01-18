@@ -22,6 +22,6 @@
         "Build_OilRefinery"
     ],
     "UnlockedBy": [
-        "Research_Sulfur_IonizedFuel"
+        "Schematic_Alternate_IonizedFuel_Dark"
     ]
 }

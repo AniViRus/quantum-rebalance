@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "QR: Dark-Ion Fuel",
+    "Ingredients": [
+        {
+            "Item": "Desc_RocketFuel",
+            "Amount": 25000
+        },
+        {
+            "Item": "Desc_DarkMatter",
+            "Amount": 2
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IonizedFuel",
+            "Amount": 20000
+        }
+    ],
+    "ManufacturingDuration": 6,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "UnlockedBy": [
+        "Research_Sulfur_IonizedFuel"
+    ]
+}

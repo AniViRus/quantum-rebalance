@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "QR: Ionized Fuel",
+    "Ingredients": [
+        {
+            "Item": "Desc_RocketFuel",
+            "Amount": 50000
+        },
+        {
+            "Item": "Desc_CrystalShard",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_IonizedFuel",
+            "Amount": 50000
+        }
+    ],
+    "ManufacturingDuration": 30,
+    "ProducedIn": [
+        "Build_OilRefinery"
+    ],
+    "UnlockedBy": [
+        "Research_Sulfur_IonizedFuel"
+    ]
+}

@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.0",
-	"SemVersion": "1.1.0",
+	"VersionName": "1.1.1",
+	"SemVersion": "1.1.1",
 	"GameVersion": ">=383729",
 	"FriendlyName": "Quantum Energy Rebalance",
 	"Description": "This mod aims towards rebalancing recipes related to Tier 9 power generation (Ficsonium and Ionized Rocket Fuel) to make them more usable for both power generation and utility (fuel and inflating power production value)",
@@ -20,7 +20,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.9.0"
+			"SemVersion": "^3.9.1"
 		},
 		{
 			"Name": "ContentLib",
